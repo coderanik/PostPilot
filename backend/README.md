@@ -8,19 +8,19 @@ This directory contains the backend code for the Scrapping project. Below is an 
   - `config.js` - Configuration settings for the project.
 
 - **/controllers**
-    - `scrapeController.js` - Handles the scraping logic and interactions.
+  - `scrapeController.js` - Handles the scraping logic and interactions.
 
 - **/models**
-    - `dataModel.js` - Defines the data schema and interactions with the database.
+  - `dataModel.js` - Defines the data schema and interactions with the database.
 
 - **/routes**
-    - `scrapeRoutes.js` - Defines the API routes for scraping operations.
+  - `scrapeRoutes.js` - Defines the API routes for scraping operations.
 
 - **/services**
-    - `scrapeService.js` - Contains the core scraping functionality and business logic.
+  - `scrapeService.js` - Contains the core scraping functionality and business logic.
 
 - **/utils**
-    - `helper.js` - Utility functions used across the project.
+  - `helper.js` - Utility functions used across the project.
 
 - `app.js` - The main entry point of the backend application.
 - `package.json` - Contains the project dependencies and scripts.
@@ -31,11 +31,13 @@ This directory contains the backend code for the Scrapping project. Below is an 
 To get started with the backend, follow these steps:
 
 1. **Install Dependencies**
+
      ```bash
      npm install
      ```
 
 2. **Run the Application**
+
      ```bash
      npm start
      ```
