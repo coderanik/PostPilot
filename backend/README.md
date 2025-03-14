@@ -5,7 +5,7 @@ This directory contains the backend code for the Scrapping project. Below is an 
 ## Folders and Files
 
 - **/config**
-    - `config.js` - Configuration settings for the project.
+  - `config.js` - Configuration settings for the project.
 
 - **/controllers**
     - `scrapeController.js` - Handles the scraping logic and interactions.
